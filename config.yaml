@@ -1,0 +1,7 @@
+message: abc
+messageRepetitions: 3
+database:
+  driverClass: com.mysql.jdbc.Driver
+  user: phonebookuser
+  password: phonebookpassword
+  url: jdbc:mysql://localhost:3306/phonebook
